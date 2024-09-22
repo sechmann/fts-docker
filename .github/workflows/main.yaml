@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sechmann/FreeTakServer
+  IMAGE_NAME: sechmann/free-tak-server
 
 jobs:
   build-and-push-image:
